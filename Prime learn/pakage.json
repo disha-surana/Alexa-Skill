@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "prime learn",
+            "invocationName": "global warming",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -23,7 +23,10 @@
                         "tell me prime fun",
                         "prime fun",
                         "math fun",
-                        "tell me math fun"
+                        "tell me about global warming",
+                        "global warming",
+                        "what is global warming",
+                        "why there is global warming"
                     ]
                 }
             ],
